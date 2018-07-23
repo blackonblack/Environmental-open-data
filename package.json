@@ -1,0 +1,22 @@
+{
+  "name": "environmental-open-data",
+  "version": "1.0.0",
+  "description": "Environmental Open Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackonblack/Environmental-open-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackonblack/Environmental-open-data/issues"
+  },
+  "homepage": "https://github.com/blackonblack/Environmental-open-data#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
